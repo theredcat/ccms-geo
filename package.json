@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Nathan DELHAYE"
+  },
+  "name": "ccms-geo",
+  "description": "Google Geocoding module for CCMS",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://pikacode.com/redcat/ccms-geo/"
+  },
+  "main": "./lib/geo.js",
+  "keywords": [
+    "geo",
+    "google",
+    "ccms"
+  ],
+  "dependencies": {
+    "geocoder": "0.1.x"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "ccms-geo@1.0.0",
+  "_shasum": "f3fcc501afed0064a6cc46e3e016b04028ab0b8b",
+  "_resolved": "git+http://pikacode.com/redcat/ccms-geo.git#ffa88b8a333a0fcfa33d31a30f75ce3a1a701749",
+  "_from": "ccms-geo@git+http://pikacode.com/redcat/ccms-geo.git#1.0.0"
+}
